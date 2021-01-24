@@ -1,0 +1,62 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+    text-align: center;
+    background: linear-gradient(#f20a92 0%, #e381bb 100%);
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    
+}
+img{
+    border-radius: 100%;
+    width: 150PX;
+}
+
+#myname{
+    font-family: 'Courgette', cursive;
+    color: darkblue;
+}
+h1{
+    text-shadow: 2px 2px blue; 
+    font-size: 20px;
+}
+
+#mydance
+{
+     color: chartreuse;   
+}
+
+p{
+    font-size: 19px;
+    color: black;
+    font-weight: 200px;
+}
+#bio{
+  padding: 20px;
+  font-size: 18;
+  text-align: center;
+}
+
+li a:hover{
+    background-color: aliceblue;
+}
+
+    
+.links{
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 15px;
+    
+}
